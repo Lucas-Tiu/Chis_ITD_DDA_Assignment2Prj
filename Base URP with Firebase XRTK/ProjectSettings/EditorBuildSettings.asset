@@ -15,5 +15,7 @@ EditorBuildSettings:
     path: Assets/Chis_Assets/Scenes/gameScene.unity
     guid: a8007ac8b4083b142bb0cc68dc8d92a2
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 81acfadabfcb0d1498e8f76ca21b154e,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fc0495dce6a83784096146de901f419f,
       type: 2}
