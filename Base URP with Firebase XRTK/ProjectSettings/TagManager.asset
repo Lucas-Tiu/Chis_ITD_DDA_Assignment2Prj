@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bullets
+  - Floor
+  - Mango
   layers:
   - Default
   - TransparentFX
@@ -11,15 +14,15 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Hands
+  - Interactive
+  - Drain
+  - Leaf
+  - Mango
+  - Watermelon
+  - Bullets
+  - Barriers
+  - Ball
   - 
   - 
   - 
